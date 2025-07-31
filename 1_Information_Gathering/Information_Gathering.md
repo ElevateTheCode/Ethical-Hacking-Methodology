@@ -5,15 +5,15 @@ This process is generally divided into two types: Passive and Active.
 1. Passive Reconnaissance
 In this phase, you collect information from public sources without directly interacting with the target's system. It's like watching a house from a distance using binoculars and public records—they have no idea you're there.
 
--Whois:
+- Whois:
 What it is: A public database that holds information about a website's domain name.
 Detailed Description: It's like a public directory or a phonebook for websites. You can use it to find out who owns a domain, when it was registered, their contact information, and which name servers they use. This helps an ethical hacker identify key people and technical details related to the company.
 
--theHarvester:
+- theHarvester:
 What it is: A command-line tool designed to gather public information like emails, subdomains, and hostnames.
 Detailed Description: This tool is like a specialized search engine for a company's public-facing details. It automatically queries sources like Google, LinkedIn, and other public databases to find the email addresses and usernames of employees. This information can be used to understand the company's internal structure and identify potential targets for social engineering.
 
--Shodan:
+- Shodan:
 What it is: A search engine for devices connected to the internet.
 
 Detailed Description: While Google searches for websites, Shodan searches for servers, routers, cameras, and other devices. It's like Google, but for all the "things" on the internet. An ethical hacker can use Shodan to find publicly exposed systems belonging to a company, along with details about the software and services they are running. This can quickly reveal unsecure or misconfigured devices.**
