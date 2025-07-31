@@ -1,4 +1,4 @@
-Scanning & Enumeration
+
 After gathering general information about a target, the next step is to actively probe it to find out exactly what is running. If "Information Gathering" was like looking at a house from a distance, "Scanning & Enumeration" is like walking around it, checking every door and window, and seeing what kind of security systems are installed. The goal is to create a detailed map of the target's network and services.
 
 What You Do in This Phase
