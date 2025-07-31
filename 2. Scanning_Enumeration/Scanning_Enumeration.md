@@ -27,5 +27,5 @@ What it is: An incredibly fast port scanner designed for large-scale network sur
 
 Detailed Description: If Nmap is a detailed inspection, Masscan is like a high-speed radar. It can scan the entire internet for a single port in a matter of minutes. Ethical hackers use it to quickly find a specific open port (like port 80 for web servers) across a massive number of IP addresses. It sacrifices detailed information for raw speed, making it perfect for initial reconnaissance on very large networks.
 
-Summary
+- Summary
 The Scanning and Enumeration phase turns the general information you gathered into a concrete plan of attack. You move from guessing about the target to having a clear map of its exposed services and potential entry points. This is the solid foundation on which the rest of the hacking methodology is built.
