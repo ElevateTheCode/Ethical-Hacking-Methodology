@@ -1,4 +1,5 @@
 📘 Ethical Hacking Methodology Guide
+---
 This repository is a structured guide to the six phases of an ethical hacking or penetration testing engagement. Think of this as a step-by-step manual for a professional security audit, similar to a security expert inspecting a house to find all its weaknesses.
 The goal of this guide is to provide a clear, easy-to-understand roadmap for anyone interested in learning the correct and methodical way to approach ethical hacking.
 
